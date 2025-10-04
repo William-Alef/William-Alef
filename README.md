@@ -7,4 +7,5 @@
 - :point_right: I have introductory knowledge of Agile methodologies, including the Agile Manifesto, Scrum, Kanban, and XP."
 - :muscle: Together We Are Stronger!.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=William-Alef&show_icons=true&theme=nightowl )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=William-Alef&show_icons=true&theme=nightowl ) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=William-Alef&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
