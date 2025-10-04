@@ -5,5 +5,6 @@
 - 🔭 Pronouns: He/His
 - :mortar_board: Graduate in Systems Analysis and Development.
 - :point_right: I have introductory knowledge of Agile methodologies, including the Agile Manifesto, Scrum, Kanban, and XP."
+- :muscle: TogetherWeAreStronger!.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=William-Alef&show_icons=true&theme=nightowl )
