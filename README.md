@@ -4,5 +4,6 @@
 - 🔭 Currently diving deep into C#, .NET, and ASP.NET Core, and searching for an opportunity.
 - 🔭 Pronouns: He/His
 - :mortar_board: Graduate in Systems Analysis and Development.
+- :point_right: I have introductory knowledge of Agile methodologies, including the Agile Manifesto, Scrum, Kanban, and XP."
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=William-Alef&show_icons=true&theme=nightowl )
