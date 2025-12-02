@@ -8,7 +8,6 @@
 - :muscle: Together We Are Stronger!.
 
 ## 📚 GitHub Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=William-Alef&show_icons=true&theme=transparent)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=William-Alef&show_icons=true&theme=nightowl ) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=William-Alef&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=William-Alef&layout=compact)
 
